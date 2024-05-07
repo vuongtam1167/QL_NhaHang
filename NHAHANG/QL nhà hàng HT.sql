@@ -1,6 +1,6 @@
-﻿create database QLNHAHANG
+﻿create database QL_NHAHANG
 go
-use QLNHAHANG
+use QL_NHAHANG
 go
 create table TAIKHOAN
 (
@@ -85,6 +85,7 @@ CREATE TABLE CT_MON
 (
 MAMON INT,
 MANGUYENLIEU INT,
+SOLUONG INT
 CONSTRAINT PK_CHITIETMON
 PRIMARY KEY(MAMON,MANGUYENLIEU)
 )
@@ -109,7 +110,7 @@ PRIMARY KEY(MACONGVIEC)
 CREATE TABLE NGUYENLIEU
 (
 MANGUYENLIEU INT,
-TENNGUYENLIEU VARCHAR(50),
+TENNGUYENLIEU NVARCHAR(50),
 SOLUONGCON INT,
 LOAINGUYENLIEU INT,
 MANHACUNGCAP INT,
@@ -262,9 +263,9 @@ values ('KH001',N'Nguyễn Văn A','012345678912','0901234567'),
 --values ('HD00001','NV00001','KH001','1/1/2024',70000)
 
 insert into NHACUNGCAP(MANHACUNGCAP,TENNHACUNGCAP,DIACHI,GHICHU,TRANGTHAI)
-values (1,N'Trần Lê F',N'Bình Thạnh,TP HCM','',1),
-	(2,N'Lê Thị Q',N'Q6 ,TP HCM','',1),
-	(3,N'Nguyễn Ngọc X',N'Q7 ,TP HCM','',1),
+values (1,N'Trần Lê F',N'Q.Bình Thạnh,TP HCM','',1),
+	(2,N'Lê Thị Q',N'Q.6 ,TP HCM','',1),
+	(3,N'Nguyễn Ngọc X',N'Q.7 ,TP HCM','',1),
 	(4,N'Trần Văn H',N'Tp Biên Hòa,Tỉnh Đồng Nai','',1)
 
 insert into LOAINGUYENLIEU(MALOAINL,TENLOAINGUYENLIEU)
@@ -284,8 +285,11 @@ values (1,N'Thịt bò',50,3,1,250000,'',1),
 	(6,N'Củ cải tím',100,1,3,55000,'',1),
 	(7,N'Cam',100,2,3,55000,'',1),
 	(8,N'Táo',100,2,3,80000,'',1),
-	(9,N'Nấm kim châm',10,5,3,90000,'',1),
-	(10,N'Trứng gà',200,6,4,2400,'',1)
+	(9,N'Nấm kim châm',50,5,3,90000,'',1),
+	(10,N'Trứng gà',200,6,4,2400,'',1),
+	(11,N'Dứa',200,2,3,15000,'',1),
+	(12,N'Rau thơm',100,1,3,15000,'',1)
+
 
 insert into LOAIMON(MALOAI,TENLOAI)
 values (1,N'Món khai vị'),
@@ -298,4 +302,27 @@ values (1,N'Gỏi bò bóp',150000,1,'','',1),
 	(2,N'Thịt nướng',189000,2,'','',1),
 	(3,N'Lẩu thái',189000,2,'','',1),
 	(4,N'Xà lách trộn',50000,3,'','',1),
-	(5,N'Rau câu trái cây',40000,4,'','',1)
+	(5,N'Trái cây',40000,4,'','',1)
+
+insert into CT_MON(MAMON,MANGUYENLIEU,SOLUONG)
+values (1,1,1),
+	(1,5,1),
+	(1,6,1),
+	(1,11,1),
+	(2,1,1),
+	(2,2,1),
+	(2,9,1),
+	(2,12,1),
+	(3,1,1),
+	(3,3,1),
+	(3,4,1),
+	(3,9,1),
+	(3,10,1),
+	(3,12,1),
+	(4,5,1),
+	(4,6,1),
+	(4,10,1),
+	(4,12,1),
+	(5,7,1),
+	(5,8,1),
+	(5,11,1)
