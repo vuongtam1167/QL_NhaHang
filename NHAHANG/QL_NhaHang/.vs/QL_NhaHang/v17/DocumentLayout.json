@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\ql_nhahang\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|solutionrelative:ql_nhahang\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\ql_nhahang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|solutionrelative:ql_nhahang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\ql_nhahang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|solutionrelative:ql_nhahang\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|d:\\ltwindow\\nhahang\\ql_nhahang\\ql_nhahang\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|solutionrelative:ql_nhahang\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8EE924-608F-4DF4-A032-BCFE9BC418E1}|QL_NhaHang_BUS\\QL_NhaHang_BUS.csproj|D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\ql_nhahang_bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8EE924-608F-4DF4-A032-BCFE9BC418E1}|QL_NhaHang_BUS\\QL_NhaHang_BUS.csproj|solutionrelative:ql_nhahang_bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED4D11C-A5C6-4D86-ACB9-06F6DA8D3863}|QL_NhaHang_DTO\\QL_NhaHang_DTO.csproj|D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\ql_nhahang_dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED4D11C-A5C6-4D86-ACB9-06F6DA8D3863}|QL_NhaHang_DTO\\QL_NhaHang_DTO.csproj|solutionrelative:ql_nhahang_dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\ql_nhahang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|solutionrelative:ql_nhahang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\ql_nhahang\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CF9C1-28BD-46BF-A1B6-DC8BEA908310}|QL_NhaHang\\QL_NhaHang_GUI.csproj|solutionrelative:ql_nhahang\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmNhanVien.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\FrmNhanVien.cs",
+              "ToolTip": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmNhanVien.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\FrmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:17:13.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang_DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang_DTO\\Class1.cs",
+              "ToolTip": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang_DTO\\Class1.cs",
+              "RelativeToolTip": "QL_NhaHang_DTO\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:20:15.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang_BUS\\Class1.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang_BUS\\Class1.cs",
+              "ToolTip": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang_BUS\\Class1.cs",
+              "RelativeToolTip": "QL_NhaHang_BUS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:20:41.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmKhachHang.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\FrmKhachHang.cs",
+              "ToolTip": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmKhachHang.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\FrmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:36:54.678Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\FrmDangNhap.cs",
+              "ToolTip": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmDangNhap.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\FrmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:20:54.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\FrmThongKe.cs",
+              "ToolTip": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmThongKe.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\FrmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:52:51.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmTrangChu.cs [Design]",
+              "DocumentMoniker": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmTrangChu.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\FrmTrangChu.cs",
+              "ToolTip": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmTrangChu.cs [Design]",
+              "RelativeToolTip": "QL_NhaHang\\FrmTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T07:08:48.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTrangChu.cs",
+              "DocumentMoniker": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmTrangChu.cs",
+              "RelativeDocumentMoniker": "QL_NhaHang\\FrmTrangChu.cs",
+              "ToolTip": "D:\\LTWINDOW\\NHAHANG\\QL_NhaHang\\QL_NhaHang\\FrmTrangChu.cs",
+              "RelativeToolTip": "QL_NhaHang\\FrmTrangChu.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:38:29.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

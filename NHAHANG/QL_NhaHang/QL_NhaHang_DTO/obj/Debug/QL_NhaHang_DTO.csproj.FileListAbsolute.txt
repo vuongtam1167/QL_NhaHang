@@ -1,0 +1,6 @@
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.pdb
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.AssemblyReference.cache
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.CoreCompileInputs.cache
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.pdb

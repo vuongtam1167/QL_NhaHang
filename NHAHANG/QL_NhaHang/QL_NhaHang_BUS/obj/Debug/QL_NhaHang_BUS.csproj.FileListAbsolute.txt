@@ -1,0 +1,11 @@
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Debug\QL_NhaHang_BUS.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Debug\QL_NhaHang_BUS.pdb
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Debug\QL_NhaHang_DAO.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Debug\QL_NhaHang_DTO.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Debug\QL_NhaHang_DAO.pdb
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Debug\QL_NhaHang_DTO.pdb
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Debug\QL_NhaHang_BUS.csproj.AssemblyReference.cache
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Debug\QL_NhaHang_BUS.csproj.CoreCompileInputs.cache
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Debug\QL_NhaHa.08EF499C.Up2Date
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Debug\QL_NhaHang_BUS.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Debug\QL_NhaHang_BUS.pdb

@@ -1,0 +1,9 @@
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.pdb
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.pdb
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.AssemblyReference.cache
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CoreCompileInputs.cache
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHa.A0E59A90.Up2Date
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.dll
+D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.pdb
