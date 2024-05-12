@@ -41,8 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CT_HOADON_DAO.cs" />
+    <Compile Include="CT_MON_DAO.cs" />
     <Compile Include="DataProvider.cs" />
+    <Compile Include="DATBAN_DAO.cs" />
+    <Compile Include="HOADON_DAO.cs" />
+    <Compile Include="KHACHHANG_DAO.cs" />
+    <Compile Include="LOAIMON_DAO.cs" />
+    <Compile Include="LOAINGUYENLIEU_DAO.cs" />
+    <Compile Include="MON_DAO.cs" />
+    <Compile Include="NGUYENLIEU_DAO.cs" />
+    <Compile Include="NHACUNGCAP_DAO.cs" />
+    <Compile Include="NHANVIEN_DAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TAIKHOAN_DAO.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QL_NhaHang_DTO\QL_NhaHang_DTO.csproj">

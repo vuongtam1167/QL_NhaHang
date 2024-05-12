@@ -17,3 +17,233 @@ D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.dll
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.pdb
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.pdb
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHa.F412499C.Up2Date
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.exe.config
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.exe
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.dll
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.dll
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.AssemblyReference.cache
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.SuggestedBindingRedirects.cache
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.FrmDangNhap.resources
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.FrmKhachHang.resources
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.FrmNhanVien.resources
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.FrmThongKe.resources
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.FrmTrangChu.resources
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.Properties.Resources.resources
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.GenerateResource.cache
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.CoreCompileInputs.cache
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.CopyComplete
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.exe
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DAO.dll
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DAO.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQLNguyenLieu.resources
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQL_Mon.resources
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmOrder.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.exe.config
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.exe
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.dll
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.dll
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DAO.dll
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DAO.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.AssemblyReference.cache
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmDangNhap.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmKhachHang.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmNhanVien.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmOrder.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQLNguyenLieu.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQL_Mon.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmThongKe.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmTrangChu.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.Properties.Resources.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.GenerateResource.cache
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.CoreCompileInputs.cache
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.CopyComplete
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.exe
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmNhaCungCap.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmTaiKhoan.resources
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQLDatBan.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.exe.config
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.exe
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DAO.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DAO.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.AssemblyReference.cache
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmDangNhap.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmKhachHang.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmNhaCungCap.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmNhanVien.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmOrder.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQLDatBan.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQLNguyenLieu.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQL_Mon.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmTaiKhoan.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmThongKe.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmTrangChu.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.Properties.Resources.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.GenerateResource.cache
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.CoreCompileInputs.cache
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.CopyComplete
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.exe
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.exe.config
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.exe
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DAO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_BUS.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DTO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\QL_NhaHang_DAO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.AssemblyReference.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmDangNhap.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmKhachHang.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmNhaCungCap.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmNhanVien.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmOrder.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQLDatBan.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQLNguyenLieu.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmQL_Mon.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmTaiKhoan.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmThongKe.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmTrangChu.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.Properties.Resources.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.GenerateResource.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.CoreCompileInputs.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang_GUI.csproj.CopyComplete
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.exe
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\EnvDTE.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\stdole.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmXemBaoCao.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\EnvDTE.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\stdole.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmXemBaoCao.resources
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmHoaDon.resources

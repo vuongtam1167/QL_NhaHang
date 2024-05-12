@@ -1,6 +1,6 @@
 ﻿namespace QL_NhaHang
 {
-    partial class FrmThongKe
+    partial class frmThongKe
     {
         /// <summary>
         /// Required designer variable.
@@ -28,443 +28,213 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmThongKe));
-            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.label9 = new System.Windows.Forms.Label();
-            this.lvw3 = new System.Windows.Forms.ListView();
-            this.columnHeader6 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader8 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.label7 = new System.Windows.Forms.Label();
-            this.domainUpDown1 = new System.Windows.Forms.DomainUpDown();
-            this.label11 = new System.Windows.Forms.Label();
-            this.lvw2 = new System.Windows.Forms.ListView();
-            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.lvw1 = new System.Windows.Forms.ListView();
-            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.groupBox8 = new System.Windows.Forms.GroupBox();
-            this.label14 = new System.Windows.Forms.Label();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.groupBox7 = new System.Windows.Forms.GroupBox();
-            this.groupBox6 = new System.Windows.Forms.GroupBox();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.grbql = new System.Windows.Forms.GroupBox();
-            this.btnDangXuat = new System.Windows.Forms.Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThongKe));
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.groupBox8.SuspendLayout();
-            this.groupBox4.SuspendLayout();
-            this.groupBox7.SuspendLayout();
-            this.groupBox6.SuspendLayout();
-            this.groupBox5.SuspendLayout();
-            this.groupBox3.SuspendLayout();
-            this.grbql.SuspendLayout();
+            this.label2 = new System.Windows.Forms.Label();
+            this.lblMon = new System.Windows.Forms.Label();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.lblTongKH = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblDoanhThu = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
+            this.panel1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            this.groupBox5.SuspendLayout();
+            this.groupBox4.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // columnHeader7
-            // 
-            this.columnHeader7.Text = "Số Điện Thoại";
-            this.columnHeader7.Width = 122;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(188, 53);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(24, 18);
-            this.label9.TabIndex = 1;
-            this.label9.Text = "34";
-            // 
-            // lvw3
-            // 
-            this.lvw3.Activation = System.Windows.Forms.ItemActivation.OneClick;
-            this.lvw3.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader6,
-            this.columnHeader7,
-            this.columnHeader8});
-            this.lvw3.FullRowSelect = true;
-            this.lvw3.GridLines = true;
-            this.lvw3.HideSelection = false;
-            this.lvw3.Location = new System.Drawing.Point(753, 326);
-            this.lvw3.MultiSelect = false;
-            this.lvw3.Name = "lvw3";
-            this.lvw3.Size = new System.Drawing.Size(394, 305);
-            this.lvw3.TabIndex = 23;
-            this.lvw3.UseCompatibleStateImageBehavior = false;
-            this.lvw3.View = System.Windows.Forms.View.Details;
-            // 
-            // columnHeader6
-            // 
-            this.columnHeader6.Text = "Tên Khách hàng";
-            this.columnHeader6.Width = 135;
-            // 
-            // columnHeader8
-            // 
-            this.columnHeader8.Text = "Địa Chỉ";
-            this.columnHeader8.Width = 113;
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(122, 25);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(158, 20);
-            this.label7.TabIndex = 0;
-            this.label7.Text = "Tổng Khách Hàng";
-            // 
-            // domainUpDown1
-            // 
-            this.domainUpDown1.Location = new System.Drawing.Point(171, 7);
-            this.domainUpDown1.Name = "domainUpDown1";
-            this.domainUpDown1.Size = new System.Drawing.Size(120, 22);
-            this.domainUpDown1.TabIndex = 1;
-            this.domainUpDown1.Text = "Hôm nay";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(13, 7);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(151, 18);
-            this.label11.TabIndex = 0;
-            this.label11.Text = "THỐNG KÊ THEO:";
-            // 
-            // lvw2
-            // 
-            this.lvw2.Activation = System.Windows.Forms.ItemActivation.OneClick;
-            this.lvw2.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader3,
-            this.columnHeader4,
-            this.columnHeader5});
-            this.lvw2.FullRowSelect = true;
-            this.lvw2.GridLines = true;
-            this.lvw2.HideSelection = false;
-            this.lvw2.Location = new System.Drawing.Point(355, 326);
-            this.lvw2.MultiSelect = false;
-            this.lvw2.Name = "lvw2";
-            this.lvw2.Size = new System.Drawing.Size(394, 305);
-            this.lvw2.TabIndex = 24;
-            this.lvw2.UseCompatibleStateImageBehavior = false;
-            this.lvw2.View = System.Windows.Forms.View.Details;
-            // 
-            // columnHeader3
-            // 
-            this.columnHeader3.Text = "Tên Nhân Viên";
-            this.columnHeader3.Width = 135;
-            // 
-            // columnHeader4
-            // 
-            this.columnHeader4.Text = "Mã Nhân Viên";
-            this.columnHeader4.Width = 122;
-            // 
-            // columnHeader5
-            // 
-            this.columnHeader5.Text = "Phân Công";
-            this.columnHeader5.Width = 113;
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.ForeColor = System.Drawing.Color.White;
-            this.label12.Location = new System.Drawing.Point(57, 9);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(253, 16);
-            this.label12.TabIndex = 0;
-            this.label12.Text = "Tên và  Số Lượng Món Ăn Được Bán";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(112, 9);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(189, 16);
-            this.label13.TabIndex = 0;
-            this.label13.Text = "Lịch Phân Công Nhân Viên";
-            // 
-            // lvw1
-            // 
-            this.lvw1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader1,
-            this.columnHeader2});
-            this.lvw1.FullRowSelect = true;
-            this.lvw1.GridLines = true;
-            this.lvw1.HideSelection = false;
-            this.lvw1.Location = new System.Drawing.Point(2, 326);
-            this.lvw1.MultiSelect = false;
-            this.lvw1.Name = "lvw1";
-            this.lvw1.Size = new System.Drawing.Size(347, 305);
-            this.lvw1.TabIndex = 25;
-            this.lvw1.UseCompatibleStateImageBehavior = false;
-            this.lvw1.View = System.Windows.Forms.View.Details;
-            // 
-            // columnHeader1
-            // 
-            this.columnHeader1.Text = "Tên Món";
-            this.columnHeader1.Width = 197;
-            // 
-            // columnHeader2
-            // 
-            this.columnHeader2.Text = "Số Lượng";
-            this.columnHeader2.Width = 125;
-            // 
-            // groupBox8
-            // 
-            this.groupBox8.BackColor = System.Drawing.Color.DarkGreen;
-            this.groupBox8.Controls.Add(this.label14);
-            this.groupBox8.ForeColor = System.Drawing.Color.White;
-            this.groupBox8.Location = new System.Drawing.Point(753, 283);
-            this.groupBox8.Name = "groupBox8";
-            this.groupBox8.Size = new System.Drawing.Size(394, 37);
-            this.groupBox8.TabIndex = 22;
-            this.groupBox8.TabStop = false;
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(141, 9);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(119, 16);
-            this.label14.TabIndex = 0;
-            this.label14.Text = "Khách Hàng Mới";
-            // 
-            // groupBox4
-            // 
-            this.groupBox4.Controls.Add(this.label9);
-            this.groupBox4.Controls.Add(this.label7);
-            this.groupBox4.Location = new System.Drawing.Point(757, 136);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(390, 90);
-            this.groupBox4.TabIndex = 18;
-            this.groupBox4.TabStop = false;
-            // 
-            // groupBox7
-            // 
-            this.groupBox7.BackColor = System.Drawing.Color.DarkGreen;
-            this.groupBox7.Controls.Add(this.label13);
-            this.groupBox7.ForeColor = System.Drawing.Color.White;
-            this.groupBox7.Location = new System.Drawing.Point(355, 283);
-            this.groupBox7.Name = "groupBox7";
-            this.groupBox7.Size = new System.Drawing.Size(394, 37);
-            this.groupBox7.TabIndex = 21;
-            this.groupBox7.TabStop = false;
-            // 
-            // groupBox6
-            // 
-            this.groupBox6.BackColor = System.Drawing.Color.DarkGreen;
-            this.groupBox6.Controls.Add(this.label12);
-            this.groupBox6.Location = new System.Drawing.Point(2, 283);
-            this.groupBox6.Name = "groupBox6";
-            this.groupBox6.Size = new System.Drawing.Size(347, 37);
-            this.groupBox6.TabIndex = 20;
-            this.groupBox6.TabStop = false;
-            // 
-            // groupBox5
-            // 
-            this.groupBox5.BackColor = System.Drawing.Color.Chartreuse;
-            this.groupBox5.Controls.Add(this.domainUpDown1);
-            this.groupBox5.Controls.Add(this.label11);
-            this.groupBox5.Location = new System.Drawing.Point(2, 232);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(1145, 45);
-            this.groupBox5.TabIndex = 19;
-            this.groupBox5.TabStop = false;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(163, 53);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(80, 18);
-            this.label10.TabIndex = 1;
-            this.label10.Text = "35,000,000";
-            // 
-            // groupBox3
-            // 
-            this.groupBox3.Controls.Add(this.label10);
-            this.groupBox3.Controls.Add(this.label6);
-            this.groupBox3.Location = new System.Drawing.Point(357, 136);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(394, 90);
-            this.groupBox3.TabIndex = 17;
-            this.groupBox3.TabStop = false;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(127, 22);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(147, 20);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "Tổng Doanh Thu";
-            // 
-            // grbql
-            // 
-            this.grbql.BackColor = System.Drawing.Color.DarkSlateBlue;
-            this.grbql.Controls.Add(this.btnDangXuat);
-            this.grbql.Location = new System.Drawing.Point(2, 12);
-            this.grbql.Name = "grbql";
-            this.grbql.Size = new System.Drawing.Size(1145, 73);
-            this.grbql.TabIndex = 14;
-            this.grbql.TabStop = false;
-            // 
-            // btnDangXuat
-            // 
-            this.btnDangXuat.BackColor = System.Drawing.Color.Lavender;
-            this.btnDangXuat.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDangXuat.Location = new System.Drawing.Point(982, 18);
-            this.btnDangXuat.Name = "btnDangXuat";
-            this.btnDangXuat.Size = new System.Drawing.Size(141, 36);
-            this.btnDangXuat.TabIndex = 0;
-            this.btnDangXuat.Text = "Đăng Xuất";
-            this.btnDangXuat.UseVisualStyleBackColor = false;
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.Chartreuse;
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox1.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.groupBox1.Controls.Add(this.label4);
-            this.groupBox1.Location = new System.Drawing.Point(2, 91);
+            this.groupBox1.Location = new System.Drawing.Point(7, 8);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1145, 42);
-            this.groupBox1.TabIndex = 15;
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox1.Size = new System.Drawing.Size(878, 34);
+            this.groupBox1.TabIndex = 38;
             this.groupBox1.TabStop = false;
             // 
             // label4
             // 
+            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(388, 7);
+            this.label4.Location = new System.Drawing.Point(291, 6);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(430, 25);
+            this.label4.Size = new System.Drawing.Size(352, 20);
             this.label4.TabIndex = 0;
             this.label4.Text = "TỔNG QUAN VỀ TÌNH HÌNH KINH DOANH";
             // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.groupBox2);
+            this.panel1.Controls.Add(this.groupBox5);
+            this.panel1.Controls.Add(this.groupBox4);
+            this.panel1.Controls.Add(this.groupBox1);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(889, 484);
+            this.panel1.TabIndex = 45;
+            // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.label8);
-            this.groupBox2.Controls.Add(this.label5);
-            this.groupBox2.Location = new System.Drawing.Point(2, 136);
+            this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.Controls.Add(this.lblMon);
+            this.groupBox2.Location = new System.Drawing.Point(7, 47);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(349, 90);
-            this.groupBox2.TabIndex = 16;
+            this.groupBox2.Size = new System.Drawing.Size(290, 199);
+            this.groupBox2.TabIndex = 50;
             this.groupBox2.TabStop = false;
             // 
-            // label8
+            // label2
             // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(158, 51);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(24, 18);
-            this.label8.TabIndex = 1;
-            this.label8.Text = "93";
+            this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(28, 20);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(205, 24);
+            this.label2.TabIndex = 45;
+            this.label2.Text = "Tổng số món đã bán";
             // 
-            // label5
+            // lblMon
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(108, 21);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(140, 20);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "Món Ăn Đã Bán";
+            this.lblMon.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblMon.AutoSize = true;
+            this.lblMon.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMon.ForeColor = System.Drawing.Color.Red;
+            this.lblMon.Location = new System.Drawing.Point(103, 68);
+            this.lblMon.Name = "lblMon";
+            this.lblMon.Size = new System.Drawing.Size(76, 25);
+            this.lblMon.TabIndex = 45;
+            this.lblMon.Text = "label2";
             // 
-            // FrmThongKe
+            // groupBox5
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.groupBox5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox5.Controls.Add(this.lblTongKH);
+            this.groupBox5.Controls.Add(this.label7);
+            this.groupBox5.Location = new System.Drawing.Point(577, 47);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(308, 199);
+            this.groupBox5.TabIndex = 49;
+            this.groupBox5.TabStop = false;
+            // 
+            // lblTongKH
+            // 
+            this.lblTongKH.AutoSize = true;
+            this.lblTongKH.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTongKH.ForeColor = System.Drawing.Color.Red;
+            this.lblTongKH.Location = new System.Drawing.Point(139, 68);
+            this.lblTongKH.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblTongKH.Name = "lblTongKH";
+            this.lblTongKH.Size = new System.Drawing.Size(38, 25);
+            this.lblTongKH.TabIndex = 1;
+            this.lblTongKH.Text = "34";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(67, 20);
+            this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(180, 24);
+            this.label7.TabIndex = 0;
+            this.label7.Text = "Tổng Khách Hàng";
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox4.Controls.Add(this.label1);
+            this.groupBox4.Controls.Add(this.lblDoanhThu);
+            this.groupBox4.Location = new System.Drawing.Point(302, 47);
+            this.groupBox4.Margin = new System.Windows.Forms.Padding(2);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox4.Size = new System.Drawing.Size(270, 199);
+            this.groupBox4.TabIndex = 48;
+            this.groupBox4.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(69, 20);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(159, 24);
+            this.label1.TabIndex = 42;
+            this.label1.Text = "Tổng doanh thu";
+            // 
+            // lblDoanhThu
+            // 
+            this.lblDoanhThu.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblDoanhThu.AutoSize = true;
+            this.lblDoanhThu.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDoanhThu.ForeColor = System.Drawing.Color.Red;
+            this.lblDoanhThu.Location = new System.Drawing.Point(118, 68);
+            this.lblDoanhThu.Name = "lblDoanhThu";
+            this.lblDoanhThu.Size = new System.Drawing.Size(76, 25);
+            this.lblDoanhThu.TabIndex = 42;
+            this.lblDoanhThu.Text = "label1";
+            // 
+            // frmThongKe
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1152, 649);
-            this.Controls.Add(this.lvw3);
-            this.Controls.Add(this.lvw2);
-            this.Controls.Add(this.lvw1);
-            this.Controls.Add(this.groupBox8);
-            this.Controls.Add(this.groupBox4);
-            this.Controls.Add(this.groupBox7);
-            this.Controls.Add(this.groupBox6);
-            this.Controls.Add(this.groupBox5);
-            this.Controls.Add(this.groupBox3);
-            this.Controls.Add(this.grbql);
-            this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.groupBox2);
+            this.ClientSize = new System.Drawing.Size(889, 484);
+            this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "FrmThongKe";
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Name = "frmThongKe";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Phần Mềm Quản Lý Nhà Hàng";
-            this.groupBox8.ResumeLayout(false);
-            this.groupBox8.PerformLayout();
-            this.groupBox4.ResumeLayout(false);
-            this.groupBox4.PerformLayout();
-            this.groupBox7.ResumeLayout(false);
-            this.groupBox7.PerformLayout();
-            this.groupBox6.ResumeLayout(false);
-            this.groupBox6.PerformLayout();
-            this.groupBox5.ResumeLayout(false);
-            this.groupBox5.PerformLayout();
-            this.groupBox3.ResumeLayout(false);
-            this.groupBox3.PerformLayout();
-            this.grbql.ResumeLayout(false);
+            this.Load += new System.EventHandler(this.frmThongKe_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.panel1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            this.groupBox5.ResumeLayout(false);
+            this.groupBox5.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.ColumnHeader columnHeader7;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.ListView lvw3;
-        private System.Windows.Forms.ColumnHeader columnHeader6;
-        private System.Windows.Forms.ColumnHeader columnHeader8;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.DomainUpDown domainUpDown1;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.ListView lvw2;
-        private System.Windows.Forms.ColumnHeader columnHeader3;
-        private System.Windows.Forms.ColumnHeader columnHeader4;
-        private System.Windows.Forms.ColumnHeader columnHeader5;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.ListView lvw1;
-        private System.Windows.Forms.ColumnHeader columnHeader1;
-        private System.Windows.Forms.ColumnHeader columnHeader2;
-        private System.Windows.Forms.GroupBox groupBox8;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.GroupBox groupBox4;
-        private System.Windows.Forms.GroupBox groupBox7;
-        private System.Windows.Forms.GroupBox groupBox6;
-        private System.Windows.Forms.GroupBox groupBox5;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.GroupBox groupBox3;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.GroupBox grbql;
-        private System.Windows.Forms.Button btnDangXuat;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label5;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblMon;
+        private System.Windows.Forms.GroupBox groupBox5;
+        private System.Windows.Forms.Label lblTongKH;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblDoanhThu;
     }
 }

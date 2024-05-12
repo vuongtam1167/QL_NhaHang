@@ -4,3 +4,27 @@ D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.As
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.CoreCompileInputs.cache
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.dll
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.dll
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.AssemblyReference.cache
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.CoreCompileInputs.cache
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.dll
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.dll
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.AssemblyReference.cache
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.CoreCompileInputs.cache
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.dll
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.AssemblyReference.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.CoreCompileInputs.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\bin\Debug\QL_NhaHang_DTO.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.AssemblyReference.cache
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.csproj.CoreCompileInputs.cache
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DTO\obj\Debug\QL_NhaHang_DTO.pdb

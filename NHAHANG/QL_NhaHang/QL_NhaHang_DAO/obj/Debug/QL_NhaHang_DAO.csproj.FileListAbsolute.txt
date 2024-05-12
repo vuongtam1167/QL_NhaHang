@@ -7,3 +7,39 @@ D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.Co
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHa.A0E59A90.Up2Date
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.dll
 D:\LTWINDOW\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.dll
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.dll
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.pdb
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.AssemblyReference.cache
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CoreCompileInputs.cache
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CopyComplete
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.dll
+D:\test code\đồ án WIn\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.dll
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.dll
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.pdb
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.AssemblyReference.cache
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CoreCompileInputs.cache
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CopyComplete
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.dll
+E:\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.pdb
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.AssemblyReference.cache
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CoreCompileInputs.cache
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CopyComplete
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.dll
+D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DAO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Debug\QL_NhaHang_DTO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.AssemblyReference.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CoreCompileInputs.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.csproj.CopyComplete
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Debug\QL_NhaHang_DAO.pdb

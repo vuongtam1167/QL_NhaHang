@@ -9,7 +9,7 @@ namespace QL_NhaHang_DAO
 {
     public class DataProvider
     {
-        private static string strKN = @"Data Source=.;Initial Catalog=CuaHangBanSua;Integrated Security=True";
+        private static string strKN = @"Data Source=.;Initial Catalog=QL_NHAHANG;Integrated Security=True";
         public static SqlConnection TaoKetNoi()
         {
             try

@@ -41,8 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="CT_HOADON_BUS.cs" />
+    <Compile Include="CT_MON_BUS.cs" />
+    <Compile Include="DATBAN_BUS.cs" />
+    <Compile Include="HOADON_BUS.cs" />
+    <Compile Include="KHACHHANG_BUS.cs" />
+    <Compile Include="LOAIMON_BUS.cs" />
+    <Compile Include="LOAINGUYENLIEU_BUS.cs" />
+    <Compile Include="MON_BUS.cs" />
+    <Compile Include="NGUYENLIEU_BUS.cs" />
+    <Compile Include="NHACUNGCAP_BUS.cs" />
+    <Compile Include="NHANVIEN_BUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TAIKHOAN_BUS.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QL_NhaHang_DAO\QL_NhaHang_DAO.csproj">
