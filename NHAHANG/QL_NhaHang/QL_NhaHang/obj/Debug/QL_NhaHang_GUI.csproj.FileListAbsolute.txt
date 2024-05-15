@@ -247,3 +247,4 @@ D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANS\Microsoft.Rep
 D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
 D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmXemBaoCao.resources
 D:\temp\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmHoaDon.resources
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang\obj\Debug\QL_NhaHang.frmHoaDon.resources

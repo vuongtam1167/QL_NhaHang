@@ -42,7 +42,7 @@ namespace QL_NhaHang_DAO
         {
             try
             {
-                string strUpdate = " Update CT_MON set MANGUYENLIEU = @MANGUYENLIEU,SOLUONG = @SOLUONG where MAMON = @MAMON ";
+                string strUpdate = " Update CT_MON set SOLUONG = @SOLUONG where MAMON = @MAMON and MANGUYENLIEU = @MANGUYENLIEU ";
                 SqlConnection conn = DataProvider.TaoKetNoi();
                 SqlParameter[] param = new SqlParameter[3];
                 param[0] = new SqlParameter("MAMON", mon.MAMON);

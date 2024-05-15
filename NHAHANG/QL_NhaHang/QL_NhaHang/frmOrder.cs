@@ -193,6 +193,7 @@ namespace QL_NhaHang
             {
                 if (lscthd.Count > 0)
                 {
+                    cthdbus.TruNguyenLieu(lscthd);
                     hdbus = new HOADON_BUS();
                     hd = new HOADON_DTO(); // ma hoa don tang tu dong nen khong tao ma hoa don moi
                     //nếu muốn giám sát mã hoá đơn thì nên làm cách tương tự như sản phẩm sữa

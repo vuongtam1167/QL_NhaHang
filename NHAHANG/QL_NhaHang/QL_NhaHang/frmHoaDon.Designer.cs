@@ -148,7 +148,7 @@
             this.dgvtt.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvtt.Size = new System.Drawing.Size(975, 257);
             this.dgvtt.TabIndex = 18;
-            this.dgvtt.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvtt_CellContentClick);
+            this.dgvtt.SelectionChanged += new System.EventHandler(this.dgvtt_SelectionChanged);
             // 
             // colMaHD
             // 
@@ -275,6 +275,7 @@
             this.txtMaHD.Location = new System.Drawing.Point(148, 19);
             this.txtMaHD.Margin = new System.Windows.Forms.Padding(2);
             this.txtMaHD.Name = "txtMaHD";
+            this.txtMaHD.ReadOnly = true;
             this.txtMaHD.Size = new System.Drawing.Size(197, 24);
             this.txtMaHD.TabIndex = 9;
             // 
@@ -363,7 +364,6 @@
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmHoaDon";
-            this.Text = "frmHoaDon";
             this.Load += new System.EventHandler(this.frmHoaDon_Load);
             this.panel1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);

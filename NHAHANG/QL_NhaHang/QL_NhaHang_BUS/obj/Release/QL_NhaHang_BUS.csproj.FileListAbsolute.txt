@@ -1,0 +1,11 @@
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Release\QL_NhaHang_BUS.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Release\QL_NhaHang_BUS.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Release\QL_NhaHang_DAO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Release\QL_NhaHang_DTO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Release\QL_NhaHang_DAO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\bin\Release\QL_NhaHang_DTO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Release\QL_NhaHang_BUS.csproj.AssemblyReference.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Release\QL_NhaHang_BUS.csproj.CoreCompileInputs.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Release\QL_NhaHang_BUS.csproj.CopyComplete
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Release\QL_NhaHang_BUS.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_BUS\obj\Release\QL_NhaHang_BUS.pdb

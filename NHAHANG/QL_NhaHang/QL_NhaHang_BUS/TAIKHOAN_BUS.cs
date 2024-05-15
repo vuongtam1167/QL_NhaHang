@@ -26,5 +26,25 @@ namespace QL_NhaHang_BUS
         {
             return tkDAO.LayHinhAnh(MaNV);
         }
+
+        public bool SuaTK(TAIKHOAN_DTO tk)
+        {
+            return tkDAO.SuaTK(tk);
+        }
+
+        public bool TenDangNhapTrung(string tdn)
+        {
+            return tkDAO.XemcoTrungTDN(tdn);
+        }
+
+        public bool ThemMoiTK(TAIKHOAN_DTO tk)
+        {
+            return tkDAO.ThemTaiKhoan(tk);
+        }
+
+        public bool XoaTK(string tendn)
+        {
+            return tkDAO.XoaTaiKhoan(tendn);
+        }
     }
 }

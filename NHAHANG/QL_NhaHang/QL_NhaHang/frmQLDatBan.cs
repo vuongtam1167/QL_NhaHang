@@ -33,6 +33,7 @@ namespace QL_NhaHang
             cboTG.SelectedIndex = 0;
             dtpNgayDat.Format = DateTimePickerFormat.Custom;
             dtpNgayDat.CustomFormat = "dd/MM/yyyy";
+            colNgayDat.DefaultCellStyle.Format = dtpNgayDat.CustomFormat;
             LoadMaKH();
             LoadMaNV();
             dgvDB.AutoGenerateColumns = false;
@@ -102,7 +103,7 @@ namespace QL_NhaHang
             db.MANV = cboMaNV.SelectedValue.ToString();
             db.MAKH = cboMaKH.SelectedValue.ToString();
             db.THOIGIANDAT = cboTG.Text;
-            db.NGAYDAT = DateTime.Parse(dtpNgayDat.Value.ToString("dd/MM/yyyy"));
+            db.NGAYDAT = DateTime.ParseExact(dtpNgayDat.Value.ToString("dd/MM/yyyy"), "dd/MM/yyyy", CultureInfo.InvariantCulture);
             db.GHICHU = txtGC.Text;
 
         }

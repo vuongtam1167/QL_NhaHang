@@ -142,5 +142,31 @@ namespace QL_NhaHang
                 }
             }
         }
+
+        private void btnTim_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(txtTimMaNCC.Text))
+            {
+                MessageBox.Show("Vui lòng nhập mã nhà cung cấp bạn muốn tìm");
+                return;
+            }
+            if (NCCBUS.TimNCC(txtTimMaNCC.Text))
+            {
+                lsNCC = new List<NHACUNGCAP_DTO>();
+                MessageBox.Show($"Tìm thấy nhà cung cấp có  mã '{txtTimMaNCC.Text}'");
+                lsNCC = NCCBUS.DSHDTim(txtTimMaNCC.Text);
+                dgvNhaCungCap.DataSource = lsNCC;
+            }
+            else
+            {
+                loadDSNCC();
+                MessageBox.Show("Không tìm thấy mã hóa đơn");
+            }
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            loadDSNCC();
+        }
     }
 }

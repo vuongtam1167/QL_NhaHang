@@ -1,0 +1,9 @@
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Release\QL_NhaHang_DAO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Release\QL_NhaHang_DAO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Release\QL_NhaHang_DTO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\bin\Release\QL_NhaHang_DTO.pdb
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Release\QL_NhaHang_DAO.csproj.AssemblyReference.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Release\QL_NhaHang_DAO.csproj.CoreCompileInputs.cache
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Release\QL_NhaHang_DAO.csproj.CopyComplete
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Release\QL_NhaHang_DAO.dll
+D:\Downloads\QL_NhaHang\NHAHANG\QL_NhaHang\QL_NhaHang_DAO\obj\Release\QL_NhaHang_DAO.pdb

@@ -112,7 +112,7 @@ namespace QL_NhaHang_DAO
             }
             catch (Exception ex)
             {
-                return false;
+                throw ex;
             }
         }
 

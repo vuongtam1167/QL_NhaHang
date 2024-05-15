@@ -52,5 +52,127 @@ namespace QL_NhaHang_DAO
             conn.Close();
             return lsCTs;
         }
+
+        public void TruNguyenLieu(List<CT_HOADON_DTO> lscthd)
+        {
+            foreach (CT_HOADON_DTO ct in lscthd)
+            {
+                CT_HOADON_DTO temp = new CT_HOADON_DTO();
+                // Lấy thông tin nguyên liệu cần thiết cho món ăn
+                NGUYENLIEU_DTO nguyenlieu = GetNguyenLieuByMon(ct.MAMON, ct.SOLUONG);
+
+            }
+        }
+        private NGUYENLIEU_DTO GetNguyenLieuByMon(int mamon, int soluongMon)
+        {
+            // Lấy danh sách nguyên liệu cần thiết cho món ăn
+            List<CT_MON_DTO> lstCTMon = GetCTMonByMon(mamon);
+
+            // Khởi tạo biến tổng số lượng nguyên liệu cần trừ
+            int tongSoLuongTru = 0;
+
+            // Duyệt qua danh sách nguyên liệu cần thiết
+            foreach (CT_MON_DTO ctMon in lstCTMon)
+            {
+                // Tính toán số lượng nguyên liệu cần trừ cho từng nguyên liệu
+                int soLuongTru = soluongMon * ctMon.SOLUONG;
+
+                // Cập nhật tổng số lượng nguyên liệu cần trừ
+                tongSoLuongTru += soLuongTru;
+
+                // Lấy thông tin nguyên liệu
+                NGUYENLIEU_DTO nguyenlieu = GetNguyenLieuById(ctMon.MANGUYENLIEU);
+
+                // Kiểm tra số lượng nguyên liệu còn lại
+                if (nguyenlieu != null && nguyenlieu.SOLUONGCON >= soLuongTru)
+                {
+                    // Cập nhật số lượng nguyên liệu còn lại
+                    nguyenlieu.SOLUONGCON -= soLuongTru;
+
+                    // Cập nhật thông tin nguyên liệu trong database
+                    UpdateNguyenLieu(nguyenlieu);
+
+                }
+            }
+            // Nếu không tìm thấy nguyên liệu phù hợp, trả về null
+            return null;
+        }
+        private List<CT_MON_DTO> GetCTMonByMon(int mamon)
+        {
+            // Lấy danh sách nguyên liệu cần thiết cho món ăn
+            List<CT_MON_DTO> lstCTMon = new List<CT_MON_DTO>();
+
+            using (SqlConnection conn = DataProvider.TaoKetNoi())
+            {
+                string sql = "SELECT * FROM CT_MON WHERE MAMON = @MAMON";
+                SqlCommand cmd = new SqlCommand(sql, conn);
+                cmd.Parameters.AddWithValue("@MAMON", mamon);
+
+                SqlDataReader sdr = cmd.ExecuteReader();
+                while (sdr.Read())
+                {
+                    CT_MON_DTO ctMon = new CT_MON_DTO();
+                    ctMon.MAMON = mamon;
+                    ctMon.MANGUYENLIEU = (int)sdr["MANGUYENLIEU"];
+                    ctMon.SOLUONG = (int)sdr["SOLUONG"];
+
+                    lstCTMon.Add(ctMon);
+                }
+                sdr.Close();
+                conn.Close();
+            }
+
+            return lstCTMon;
+        }
+        private NGUYENLIEU_DTO GetNguyenLieuById(int manguyenlieu)
+        {
+            NGUYENLIEU_DTO nguyenlieu = null;
+
+            using (SqlConnection conn = DataProvider.TaoKetNoi())
+            {
+                string sql = "SELECT * FROM NGUYENLIEU WHERE MANGUYENLIEU = @MANGUYENLIEU";
+                SqlCommand cmd = new SqlCommand(sql, conn);
+                cmd.Parameters.AddWithValue("@MANGUYENLIEU", manguyenlieu);
+
+                SqlDataReader sdr = cmd.ExecuteReader();
+                if (sdr.Read())
+                {
+                    nguyenlieu = new NGUYENLIEU_DTO();
+                    nguyenlieu.MANGUYENLIEU = manguyenlieu;
+                    nguyenlieu.TENNGUYENLIEU = sdr["TENNGUYENLIEU"].ToString();
+                    nguyenlieu.SOLUONGCON = (int)sdr["SOLUONGCON"];
+                    nguyenlieu.LOAINGUYENLIEU = (int)sdr["LOAINGUYENLIEU"];
+                    nguyenlieu.MANHACUNGCAP = (int)sdr["MANHACUNGCAP"];
+                    nguyenlieu.GIATIEN = int.Parse(sdr["GIATIEN"].ToString());
+                    nguyenlieu.MOTA = sdr["MOTA"].ToString();
+                    nguyenlieu.TRANGTHAI = (int)sdr["TRANGTHAI"];
+                }
+                sdr.Close();
+                conn.Close();
+            }
+
+            return nguyenlieu;
+        }
+        private void UpdateNguyenLieu(NGUYENLIEU_DTO nguyenlieu)
+        {
+            if (nguyenlieu != null)
+            {
+                using (SqlConnection conn = DataProvider.TaoKetNoi())
+                {
+                    string sql = "UPDATE NGUYENLIEU SET SOLUONGCON = @SOLUONGCON, LOAINGUYENLIEU = @LOAINGUYENLIEU, MANHACUNGCAP = @MANHACUNGCAP, GIATIEN = @GIATIEN, MOTA = @MOTA, TRANGTHAI = @TRANGTHAI WHERE MANGUYENLIEU = @MANGUYENLIEU";
+                    SqlCommand cmd = new SqlCommand(sql, conn);
+                    cmd.Parameters.AddWithValue("@MANGUYENLIEU", nguyenlieu.MANGUYENLIEU);
+                    cmd.Parameters.AddWithValue("@SOLUONGCON", nguyenlieu.SOLUONGCON);
+                    cmd.Parameters.AddWithValue("@LOAINGUYENLIEU", nguyenlieu.LOAINGUYENLIEU);
+                    cmd.Parameters.AddWithValue("@MANHACUNGCAP", nguyenlieu.MANHACUNGCAP);
+                    cmd.Parameters.AddWithValue("@GIATIEN", nguyenlieu.GIATIEN);
+                    cmd.Parameters.AddWithValue("@MOTA", nguyenlieu.MOTA);
+                    cmd.Parameters.AddWithValue("@TRANGTHAI", nguyenlieu.TRANGTHAI);
+
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                }
+            }
+        }
     }
 }

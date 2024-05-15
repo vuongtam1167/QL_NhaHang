@@ -12,6 +12,11 @@ namespace QL_NhaHang_BUS
     {
         NHACUNGCAP_DAO nhaccdao = new NHACUNGCAP_DAO();
 
+        public List<NHACUNGCAP_DTO> DSHDTim(string ma)
+        {
+            return nhaccdao.LayDanhSachTheoMa(ma);
+        }
+
         public int LayMaTT()
         {
             int max = nhaccdao.LayMaNhaCungCapLonNhat();
@@ -38,6 +43,11 @@ namespace QL_NhaHang_BUS
         public bool themMoi(NHACUNGCAP_DTO ncc)
         {
             return nhaccdao.themMoiNhaCungCap(ncc);
+        }
+
+        public bool TimNCC(string ma)
+        {
+            return nhaccdao.TimNhaCC(ma);
         }
 
         public bool xoaTT(string maNCC)

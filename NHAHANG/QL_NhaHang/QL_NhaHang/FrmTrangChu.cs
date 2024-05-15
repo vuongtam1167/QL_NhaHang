@@ -163,6 +163,7 @@ namespace QL_NhaHang
             f.MdiParent = this;
             f.Dock = DockStyle.Fill;
             f.Show();
+            
         }
 
         private void quảnLýĐặtBànToolStripMenuItem_Click(object sender, EventArgs e)
@@ -199,6 +200,11 @@ namespace QL_NhaHang
             f.MdiParent = this;
             f.Dock = DockStyle.Fill;
             f.Show();
+        }
+
+        private void picAnhDaiDien_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

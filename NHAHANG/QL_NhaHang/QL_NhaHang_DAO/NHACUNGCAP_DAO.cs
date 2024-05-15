@@ -10,6 +10,34 @@ namespace QL_NhaHang_DAO
 {
     public class NHACUNGCAP_DAO
     {
+        public List<NHACUNGCAP_DTO> LayDanhSachTheoMa(string ma)
+        {
+            try
+            {
+                List<NHACUNGCAP_DTO> lsnhacc = new List<NHACUNGCAP_DTO>();
+                SqlConnection conn = DataProvider.TaoKetNoi();
+                string strSelect = $"Select * from NHACUNGCAP where MANHACUNGCAP = '{ma}'";
+                SqlDataReader sdr = DataProvider.TruyVan(strSelect, conn);
+                while (sdr.Read())
+                {
+                    NHACUNGCAP_DTO s = new NHACUNGCAP_DTO();
+                    s.MANHACUNGCAP = (int)sdr["MANHACUNGCAP"];
+                    s.TENNHACUNGCAP = sdr["TENNHACUNGCAP"].ToString();
+                    s.DIACHI = sdr["DIACHI"].ToString();
+                    s.GHICHU = sdr["GHICHU"].ToString();
+                    s.TRANGTHAI = (int)sdr["TRANGTHAI"];
+                    lsnhacc.Add(s);
+                }
+                sdr.Close();
+                conn.Close();
+                return lsnhacc;
+            }
+            catch (Exception ex)
+            {
+                return new List<NHACUNGCAP_DTO>();
+            }
+        }
+
         public int LayMaNhaCungCapLonNhat()
         {
             try
@@ -97,6 +125,28 @@ namespace QL_NhaHang_DAO
             catch (Exception e)
             {
                 throw e;
+            }
+        }
+
+        public bool TimNhaCC(string ma)
+        {
+            try
+            {
+                string kq = null;
+                string strSearch = $"select * from NHACUNGCAP where MANHACUNGCAP = {ma}";
+                SqlConnection conn = DataProvider.TaoKetNoi();
+
+                SqlCommand com = new SqlCommand(strSearch, conn);
+                kq = com.ExecuteScalar().ToString();
+                conn.Close();
+                if (kq != null)
+                    return true;
+                return false;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+
             }
         }
 

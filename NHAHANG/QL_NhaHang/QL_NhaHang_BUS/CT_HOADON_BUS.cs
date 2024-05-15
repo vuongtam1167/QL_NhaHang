@@ -19,5 +19,10 @@ namespace QL_NhaHang_BUS
         {
             return ctDAO.LayDanhSachSanPhamTheoHoaDon(mhd);
         }
+
+        public void TruNguyenLieu(List<CT_HOADON_DTO> lscthd)
+        {
+            ctDAO.TruNguyenLieu(lscthd);
+        }
     }
 }

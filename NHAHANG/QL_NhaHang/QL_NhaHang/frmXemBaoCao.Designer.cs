@@ -47,8 +47,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.rpvXemBC);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frmXemBaoCao";
-            this.Text = "frmXemBaoCao";
+            this.ShowIcon = false;
+            this.Text = "Hóa Đơn";
             this.Load += new System.EventHandler(this.frmXemBaoCao_Load);
             this.ResumeLayout(false);
 

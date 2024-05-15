@@ -17,7 +17,7 @@ namespace QL_NhaHang
         NHANVIEN_BUS nvBUS = new NHANVIEN_BUS();
         List<NHANVIEN_DTO> lsNV = new List<NHANVIEN_DTO>();
         NHANVIEN_DTO nv;
-        string strPathHinh = "Dulieu/NHANVIEN/";
+        string strPathHinh = "Dulieu/NhanVien/";
         public frmNhanVien()
         {
             InitializeComponent();
@@ -83,12 +83,18 @@ namespace QL_NhaHang
                     MessageBox.Show("Vui lòng nhập đầy đủ thông tin", "Thêm mới");
                     return;
                 }
+                if (picNhanVien.Image == null)
+                {
+                    MessageBox.Show("Vui lòng chọn ảnh", "Thêm mới");
+                    return;
+                }
                 nv = new NHANVIEN_DTO();
-                nv.HINHANH = strPathHinh + nv.MANV + ".png";
                 nv.MANV = nvBUS.layMaTT().ToString();
+                nv.HINHANH = strPathHinh + nv.MANV + ".png";
                 layTT();
                 if (nvBUS.themMoi(nv))
                 {
+                    picNhanVien.Image.Save(nv.HINHANH);
                     MessageBox.Show("Thêm mới thành công", "Thêm mới");
                     loadDSNV();
                 }
@@ -114,7 +120,6 @@ namespace QL_NhaHang
             nv.CHUCVU = txtChucV.Text;
             nv.THANHTICH = int.Parse(txtThanhTich.Text);
             nv.TONGTHOIGIANLAM = int.Parse(txtTongTG.Text);
-            nv.HINHANH = "";
             if (ckbTrangThai.Checked)
                 nv.TRANGTHAI = 1;
             else nv.TRANGTHAI = 0;
@@ -131,6 +136,7 @@ namespace QL_NhaHang
                 layTT();
                 if (nvBUS.suaTT(nv))
                 {
+                    picNhanVien.Image.Save(nv.HINHANH);
                     MessageBox.Show("Sửa thông tin thành công", "Thông báo");
                     loadDSNV();
                 }

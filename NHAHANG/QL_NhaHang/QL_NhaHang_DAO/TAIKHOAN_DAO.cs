@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Diagnostics.SymbolStore;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -71,6 +72,88 @@ namespace QL_NhaHang_DAO
             kq = com.ExecuteScalar().ToString();
             conn.Close();
             return kq;
+        }
+
+        public bool SuaTK(TAIKHOAN_DTO tk)
+        {
+            try
+            {
+                string strupdate = "Update TAIKHOAN set MANV=@MANV,MATKHAU=@MATKHAU,LOAITK=@LOAITK,TRANGTHAI = @TRANGTHAI where TENDANGNHAP=@TENDANGNHAP";
+                SqlConnection conn = DataProvider.TaoKetNoi();
+                SqlParameter[] param = new SqlParameter[5];
+                param[0] = new SqlParameter("MANV", tk.MANV);
+                param[1] = new SqlParameter("TENDANGNHAP", tk.TENDANGNHAP);
+                param[2] = new SqlParameter("MATKHAU", tk.MATKHAU);
+                param[3] = new SqlParameter("LOAITK", tk.LOAITK);
+                param[4] = new SqlParameter("TRANGTHAI", tk.TRANGTHAI);
+                bool kq = DataProvider.ThucThi(strupdate, param, conn);
+                conn.Close();
+                return kq;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public bool ThemTaiKhoan(TAIKHOAN_DTO tk)
+        {
+            try
+            {
+                string strThem = "insert into TAIKHOAN(MANV,TENDANGNHAP,MATKHAU,LOAITK,TRANGTHAI) " +
+                    " values (@MANV,@TENDANGNHAP,@MATKHAU,@LOAITK,@TRANGTHAI)";
+                SqlConnection conn = DataProvider.TaoKetNoi();
+                SqlParameter[] param = new SqlParameter[5];
+                param[0] = new SqlParameter("MANV", tk.MANV);
+                param[1] = new SqlParameter("TENDANGNHAP", tk.TENDANGNHAP);
+                param[2] = new SqlParameter("MATKHAU", tk.MATKHAU);
+                param[3] = new SqlParameter("LOAITK", tk.LOAITK);
+                param[4] = new SqlParameter("TRANGTHAI", tk.TRANGTHAI);
+                bool kq = DataProvider.ThucThi(strThem, param, conn);
+                conn.Close();
+                return kq;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public bool XemcoTrungTDN(string tdn)
+        {
+            try
+            {
+                string seleten = $"select COUNT(TENDANGNHAP) from TAIKHOAN where TENDANGNHAP = '{tdn}'";
+                SqlConnection conn = DataProvider.TaoKetNoi();
+                SqlCommand com = new SqlCommand(seleten,conn);
+                bool kq;
+                if ((int)com.ExecuteScalar() != 0)
+                    kq = true;
+                else
+                    kq = false;
+                conn.Close();
+                return kq;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public bool XoaTaiKhoan(string tendn)
+        {
+            try
+            {
+                string strDel = $"delete from TAIKHOAN where TENDANGNHAP = '{tendn}'";
+                SqlConnection conn = DataProvider.TaoKetNoi();
+                bool kq = DataProvider.ThucThi(strDel, conn);
+                conn.Close();
+                return kq;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }

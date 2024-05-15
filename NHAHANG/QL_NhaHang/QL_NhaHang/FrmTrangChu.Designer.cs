@@ -246,6 +246,7 @@
             this.picAnhDaiDien.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picAnhDaiDien.TabIndex = 7;
             this.picAnhDaiDien.TabStop = false;
+            this.picAnhDaiDien.Click += new System.EventHandler(this.picAnhDaiDien_Click);
             // 
             // frmTrangChu
             // 
@@ -264,7 +265,7 @@
             this.Name = "frmTrangChu";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "sss";
+            this.Text = "Phần Mềm Quản Lý Nhà Hàng";
             this.Load += new System.EventHandler(this.FrmTrangChu_Load);
             this.grbmenu.ResumeLayout(false);
             this.grbmenu.PerformLayout();

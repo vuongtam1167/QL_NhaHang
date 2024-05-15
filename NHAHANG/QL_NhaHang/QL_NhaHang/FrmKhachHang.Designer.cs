@@ -71,6 +71,7 @@
             this.button7.TabIndex = 0;
             this.button7.Text = "DANH SÁCH";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button2
             // 
@@ -274,6 +275,7 @@
             this.txtMaKH.Location = new System.Drawing.Point(131, 71);
             this.txtMaKH.Margin = new System.Windows.Forms.Padding(2);
             this.txtMaKH.Name = "txtMaKH";
+            this.txtMaKH.ReadOnly = true;
             this.txtMaKH.Size = new System.Drawing.Size(157, 20);
             this.txtMaKH.TabIndex = 2;
             // 

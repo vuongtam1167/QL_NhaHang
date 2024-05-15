@@ -367,7 +367,6 @@
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmQLNguyenLieu";
-            this.Text = "frmQLNguyenLieu";
             this.Load += new System.EventHandler(this.frmQLNguyenLieu_Load);
             this.gpbChiTiet.ResumeLayout(false);
             this.gpbChiTiet.PerformLayout();

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_NhaHang_DAO", "QL_NhaHan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_NhaHang_BUS", "QL_NhaHang_BUS\QL_NhaHang_BUS.csproj", "{BA8EE924-608F-4DF4-A032-BCFE9BC418E1}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QL_NhaHangSetup", "QL_NhaHangSetup\QL_NhaHangSetup.vdproj", "{955D690A-842D-4EDB-A5AD-AA450B2A8C3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,8 @@ Global
 		{BA8EE924-608F-4DF4-A032-BCFE9BC418E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA8EE924-608F-4DF4-A032-BCFE9BC418E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA8EE924-608F-4DF4-A032-BCFE9BC418E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955D690A-842D-4EDB-A5AD-AA450B2A8C3F}.Debug|Any CPU.ActiveCfg = Debug
+		{955D690A-842D-4EDB-A5AD-AA450B2A8C3F}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

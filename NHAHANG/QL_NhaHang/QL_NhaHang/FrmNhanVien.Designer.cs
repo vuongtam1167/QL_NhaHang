@@ -57,16 +57,16 @@
             this.label4 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dgvtt = new System.Windows.Forms.DataGridView();
+            this.button7 = new System.Windows.Forms.Button();
             this.colMaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colTenNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colEmailNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colCCCDNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colSDT = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colCV = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.colCV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colTT = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colTongTg = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colTrangThai = new System.Windows.Forms.DataGridViewCheckBoxColumn();
-            this.button7 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picNhanVien)).BeginInit();
@@ -142,6 +142,7 @@
             this.picNhanVien.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picNhanVien.TabIndex = 5;
             this.picNhanVien.TabStop = false;
+            this.picNhanVien.Click += new System.EventHandler(this.picNhanVien_Click);
             // 
             // ckbTrangThai
             // 
@@ -214,6 +215,7 @@
             this.txtMaNV.Location = new System.Drawing.Point(145, 151);
             this.txtMaNV.Margin = new System.Windows.Forms.Padding(2);
             this.txtMaNV.Name = "txtMaNV";
+            this.txtMaNV.ReadOnly = true;
             this.txtMaNV.Size = new System.Drawing.Size(157, 20);
             this.txtMaNV.TabIndex = 2;
             // 
@@ -395,6 +397,18 @@
             this.dgvtt.TabIndex = 3;
             this.dgvtt.SelectionChanged += new System.EventHandler(this.dgvtt_SelectionChanged);
             // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.Color.DeepSkyBlue;
+            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.Location = new System.Drawing.Point(0, 7);
+            this.button7.Margin = new System.Windows.Forms.Padding(2);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(598, 40);
+            this.button7.TabIndex = 0;
+            this.button7.Text = "DANH SÁCH";
+            this.button7.UseVisualStyleBackColor = false;
+            // 
             // colMaNV
             // 
             this.colMaNV.DataPropertyName = "MANV";
@@ -448,7 +462,6 @@
             this.colCV.Name = "colCV";
             this.colCV.ReadOnly = true;
             this.colCV.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.colCV.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             this.colCV.Width = 125;
             // 
             // colTT
@@ -478,18 +491,6 @@
             this.colTrangThai.ReadOnly = true;
             this.colTrangThai.Width = 125;
             // 
-            // button7
-            // 
-            this.button7.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.Location = new System.Drawing.Point(0, 7);
-            this.button7.Margin = new System.Windows.Forms.Padding(2);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(598, 40);
-            this.button7.TabIndex = 0;
-            this.button7.Text = "DANH SÁCH";
-            this.button7.UseVisualStyleBackColor = false;
-            // 
             // frmNhanVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -499,7 +500,6 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmNhanVien";
-            this.Text = "FrmNhanVien";
             this.Load += new System.EventHandler(this.frmNhanVien_Load);
             this.panel1.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
@@ -541,15 +541,15 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.DataGridView dgvtt;
+        private System.Windows.Forms.Button button7;
         private System.Windows.Forms.DataGridViewTextBoxColumn colMaNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn colTenNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn colEmailNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn colCCCDNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn colSDT;
-        private System.Windows.Forms.DataGridViewComboBoxColumn colCV;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colCV;
         private System.Windows.Forms.DataGridViewTextBoxColumn colTT;
         private System.Windows.Forms.DataGridViewTextBoxColumn colTongTg;
         private System.Windows.Forms.DataGridViewCheckBoxColumn colTrangThai;
-        private System.Windows.Forms.Button button7;
     }
 }

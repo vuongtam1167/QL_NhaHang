@@ -163,10 +163,7 @@ namespace QL_NhaHang_DAO
                 SqlConnection conn = DataProvider.TaoKetNoi();
 
                 SqlCommand com = new SqlCommand(strSearch, conn);
-                if (com.ExecuteScalar() != null)
-                {
                     kq = com.ExecuteScalar().ToString();
-                }
                 conn.Close();
                 if (kq != null)
                     return true;

@@ -85,14 +85,34 @@ namespace QL_NhaHang
         }
 
 
-        private void dgvtt_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
         private void btnLoadDS_Click(object sender, EventArgs e)
         {
             LoadHoaDon();
+        }
+
+        private void dgvtt_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dgvtt.SelectedRows.Count > 0)
+            {
+                hd = dgvtt.SelectedRows[0].DataBoundItem as HOADON_DTO;
+            }
+            else
+            {
+                hd = null;
+            }
+            hienThiThongTin();
+        }
+
+        private void hienThiThongTin()
+        {
+            if (hd != null)
+            {
+                txtMaHD.Text = hd.MAHD.ToString();
+                cboTenNV.SelectedValue = hd.MANV;
+                cboTenKH.SelectedValue = hd.MAKH;
+                dtpHD.Value = hd.NGAYLAP;
+                lblTongTien.Text = hd.TONGTIENVAVAT.ToString();
+            }
         }
     }
 }

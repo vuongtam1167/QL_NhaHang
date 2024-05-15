@@ -33,5 +33,25 @@ namespace QL_NhaHang
             }
             return null;
         }
+        public static string MaHoaMD5MK(string chuoi)
+        {
+            // Encode the string as UTF-8 bytes
+            byte[] bytes = Encoding.UTF8.GetBytes(chuoi);
+
+            // Create an MD5 hash object
+            MD5 md5 = MD5.Create();
+
+            // Compute the hash
+            byte[] hash = md5.ComputeHash(bytes);
+
+            // Convert the hash bytes to a hexadecimal string (without StringBuilder)
+            string hexString = "";
+            foreach (byte b in hash)
+            {
+                hexString += b.ToString("x2");
+            }
+
+            return hexString;
+        }
     }
 }

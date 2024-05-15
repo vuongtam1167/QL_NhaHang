@@ -32,11 +32,6 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnInHD = new System.Windows.Forms.Button();
             this.dgvCT = new System.Windows.Forms.DataGridView();
-            this.colMaMon = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colTenMon = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.colGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colMaLoai = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.colMoTa = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnLamMoi = new System.Windows.Forms.Button();
             this.btnXoaCT = new System.Windows.Forms.Button();
             this.btnLapHD = new System.Windows.Forms.Button();
@@ -59,6 +54,11 @@
             this.imlMon = new System.Windows.Forms.ImageList(this.components);
             this.nudSoluong = new System.Windows.Forms.NumericUpDown();
             this.label8 = new System.Windows.Forms.Label();
+            this.colMaMon = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colTenMon = new System.Windows.Forms.DataGridViewComboBoxColumn();
+            this.colGia = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colMaLoai = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colMoTa = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvCT)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -119,45 +119,6 @@
             this.dgvCT.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvCT.Size = new System.Drawing.Size(571, 205);
             this.dgvCT.TabIndex = 62;
-            // 
-            // colMaMon
-            // 
-            this.colMaMon.DataPropertyName = "MAMON";
-            this.colMaMon.HeaderText = "Mã Món";
-            this.colMaMon.Name = "colMaMon";
-            this.colMaMon.ReadOnly = true;
-            // 
-            // colTenMon
-            // 
-            this.colTenMon.DataPropertyName = "TENMON";
-            this.colTenMon.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
-            this.colTenMon.HeaderText = "Tên Món";
-            this.colTenMon.Name = "colTenMon";
-            this.colTenMon.ReadOnly = true;
-            this.colTenMon.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.colTenMon.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            // 
-            // colGia
-            // 
-            this.colGia.DataPropertyName = "GIA";
-            this.colGia.HeaderText = "Đơn Giá";
-            this.colGia.Name = "colGia";
-            this.colGia.ReadOnly = true;
-            // 
-            // colMaLoai
-            // 
-            this.colMaLoai.DataPropertyName = "SOLUONG";
-            this.colMaLoai.HeaderText = "Số lượng";
-            this.colMaLoai.Name = "colMaLoai";
-            this.colMaLoai.ReadOnly = true;
-            this.colMaLoai.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            // 
-            // colMoTa
-            // 
-            this.colMoTa.DataPropertyName = "THANHTIEN";
-            this.colMoTa.HeaderText = "Thành tiền";
-            this.colMoTa.Name = "colMoTa";
-            this.colMoTa.ReadOnly = true;
             // 
             // btnLamMoi
             // 
@@ -401,6 +362,45 @@
             this.label8.TabIndex = 60;
             this.label8.Text = "Số lượng:";
             // 
+            // colMaMon
+            // 
+            this.colMaMon.DataPropertyName = "MAMON";
+            this.colMaMon.HeaderText = "Mã Món";
+            this.colMaMon.Name = "colMaMon";
+            this.colMaMon.ReadOnly = true;
+            // 
+            // colTenMon
+            // 
+            this.colTenMon.DataPropertyName = "MAMON";
+            this.colTenMon.DisplayStyle = System.Windows.Forms.DataGridViewComboBoxDisplayStyle.Nothing;
+            this.colTenMon.HeaderText = "Tên Món";
+            this.colTenMon.Name = "colTenMon";
+            this.colTenMon.ReadOnly = true;
+            this.colTenMon.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.colTenMon.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            // 
+            // colGia
+            // 
+            this.colGia.DataPropertyName = "GIA";
+            this.colGia.HeaderText = "Đơn Giá";
+            this.colGia.Name = "colGia";
+            this.colGia.ReadOnly = true;
+            // 
+            // colMaLoai
+            // 
+            this.colMaLoai.DataPropertyName = "SOLUONG";
+            this.colMaLoai.HeaderText = "Số lượng";
+            this.colMaLoai.Name = "colMaLoai";
+            this.colMaLoai.ReadOnly = true;
+            this.colMaLoai.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            // 
+            // colMoTa
+            // 
+            this.colMoTa.DataPropertyName = "THANHTIEN";
+            this.colMoTa.HeaderText = "Thành tiền";
+            this.colMoTa.Name = "colMoTa";
+            this.colMoTa.ReadOnly = true;
+            // 
             // frmOrder
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -410,7 +410,6 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmOrder";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "frmOrder";
             this.Load += new System.EventHandler(this.frmOrder_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -449,12 +448,12 @@
         private System.Windows.Forms.TextBox txtTongTien;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.ImageList imlMon;
+        private System.Windows.Forms.ComboBox cboMaDB;
+        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DataGridViewTextBoxColumn colMaMon;
         private System.Windows.Forms.DataGridViewComboBoxColumn colTenMon;
         private System.Windows.Forms.DataGridViewTextBoxColumn colGia;
         private System.Windows.Forms.DataGridViewTextBoxColumn colMaLoai;
         private System.Windows.Forms.DataGridViewTextBoxColumn colMoTa;
-        private System.Windows.Forms.ComboBox cboMaDB;
-        private System.Windows.Forms.Label label1;
     }
 }
